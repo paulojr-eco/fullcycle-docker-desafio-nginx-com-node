@@ -19,6 +19,9 @@ Para acessar o app, basta seguir os passos:
 # Clonar o repositório
 git clone https://github.com/paulojr-eco/fullcycle-docker-desafio-nginx-com-node.git
 
+# Acesse a pasta do desafio
+cd fullcycle-docker-desafio-nginx-com-node
+
 # Subir os containers
 docker-compose up -d
 ```
